@@ -39,5 +39,7 @@
         "post-update-cmd": [
             "ping 8.8.8.8"
         ]
-    }
+    },
+    "license" : "GPL-3.0"
+
 }
